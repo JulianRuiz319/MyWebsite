@@ -1,0 +1,66 @@
+.navbar {
+	background-color:#71AFF2 !important;
+}
+
+.nav-link, .navbar-brand {
+	color: #ffffff;
+}
+.nav-link:hover {
+	color: #000000;
+}
+
+
+h3 {
+	padding:;
+}
+
+h4 {
+	padding: ;
+}
+
+p {
+	padding: 20px;
+	font-size: 20px;
+}
+
+logoImg {
+	width: 200px;
+}
+
+.logoImg {
+	text-align: center;
+}
+
+/* table */
+table, td, th {
+	border: 1px solid #cccccc;
+	border-spacing: 0;
+}
+
+table {
+	width: 100%;
+}
+
+th {
+	font-family: Georgia, serif;
+	background-color: #71AFF2;
+}
+
+th, td {
+	padding: 10px 30px;
+}
+
+ul {
+	padding: 25px;
+}
+
+#videolayout {
+	border: 0px;
+}
+
+.YouTubeVideo {
+	border: 0px;
+	background-color: ;
+	vertical-align: top;
+}
+
